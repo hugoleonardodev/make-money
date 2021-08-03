@@ -1,4 +1,4 @@
-# Monetus Money
+# Make Money
 
 Um aplicativo React para mercado financeiro com atualização em tempo real.
 
